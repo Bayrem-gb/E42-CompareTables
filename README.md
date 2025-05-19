@@ -16,7 +16,7 @@ A Python utility for comparing two tables from either DuckDB or BigQuery to iden
 1. **Clone the repository (if you haven't already):**
 
    ```bash
-   git clone https://github.com/yourusername/table-comparison-tool.git # Replace with your repo URL
+   git clone https://github.com/Bayrem-gb/E42-CompareTables.git
    cd table-comparison-tool
    ```
 2. **Create a virtual environment (recommended):**
